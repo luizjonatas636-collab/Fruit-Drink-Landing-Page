@@ -14,7 +14,11 @@ A página possui um sistema de navegação por setas que permite alternar entre 
 
 ![Sabor Laranja](img/Laranja-page.png)
 
-## ✨ Funcionalidades
+### 🍓 Sabor Morango
+
+![Sabor Morango](img/Morango-page.png)
+
+##  Funcionalidades
 
 - Navegação entre diferentes sabores de suco
 - Botões de anterior e próximo

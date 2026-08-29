@@ -8,11 +8,11 @@ A página possui um sistema de navegação por setas que permite alternar entre 
 
 ### 🥑 Sabor Abacate
 
-![Sabor Abacate](./img/abacate[pronto] (2).png)
+![Sabor Abacate](img/Abacate-page.png)
 
 ### 🍊 Sabor Laranja
 
-![Sabor Laranja](./assets/preview/laranja.png)
+![Sabor Laranja](img/Laranja-page.png)
 
 ## ✨ Funcionalidades
 
